@@ -1,0 +1,14 @@
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\bin\Debug\net6.0\ra.aluno.exe
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\bin\Debug\net6.0\ra.aluno.deps.json
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\bin\Debug\net6.0\ra.aluno.runtimeconfig.json
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\bin\Debug\net6.0\ra.aluno.dll
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\bin\Debug\net6.0\ra.aluno.pdb
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.AssemblyInfoInputs.cache
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.AssemblyInfo.cs
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.csproj.CoreCompileInputs.cache
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.dll
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\refint\ra.aluno.dll
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.pdb
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ra.aluno.genruntimeconfig.cache
+C:\Users\Stefa\Desktop\FACULDADE\AULA FERNANDO\C#\stefanie_martins_n894440\ra.aluno\ra.aluno\obj\Debug\net6.0\ref\ra.aluno.dll
